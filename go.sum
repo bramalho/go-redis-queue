@@ -1,0 +1,8 @@
+github.com/adjust/redismq v0.0.0-20170113163246-e2a56d9bb404 h1:N0wQuL8l8vhSWchpA02i+dkOcHfsIzQHlMzelWf3gYg=
+github.com/adjust/redismq v0.0.0-20170113163246-e2a56d9bb404/go.mod h1:u4tnJjPZdggljOKXABzkvBn66NodmV4ZV9h35Zeif3A=
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
+gopkg.in/bsm/ratelimit.v1 v1.0.0-20160220154919-db14e161995a h1:stTHdEoWg1pQ8riaP5ROrjS6zy6wewH/Q2iwnLCQUXY=
+gopkg.in/bsm/ratelimit.v1 v1.0.0-20160220154919-db14e161995a/go.mod h1:KF9sEfUPAXdG8Oev9e99iLGnl2uJMjc5B+4y3O7x610=
+gopkg.in/redis.v3 v3.6.4 h1:u7XgPH1rWwsdZnR+azldXC6x9qDU2luydOIeU/l52fE=
+gopkg.in/redis.v3 v3.6.4/go.mod h1:6XeGv/CrsUFDU9aVbUdNykN7k1zVmoeg83KC9RbQfiU=
